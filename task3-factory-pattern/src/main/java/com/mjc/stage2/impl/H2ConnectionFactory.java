@@ -31,7 +31,7 @@ public class H2ConnectionFactory implements ConnectionFactory {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }
-        // Write your code here!
+
     }
 }
 
